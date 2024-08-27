@@ -1,2 +1,4 @@
 # neuropython2024
-Documentation and Material for the 2024 NeuroPython Workshop 
+Please visit the [Documentation](https://navis-org.github.io/neuropython2024/) for details.
+
+

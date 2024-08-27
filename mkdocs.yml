@@ -1,4 +1,4 @@
-site_name: NeuroPython workshop 2024
+site_name: NeuroPython Workshop 2024
 site_url: https://navis-org.github.io/neuropython2024/
 site_description: Documentation and Materials for the NeuroPython workshop 2024
 # strict: true
@@ -9,6 +9,15 @@ edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
+  - Schedule: schedule.md
+  - Preparation:
+      - preparing.md
+      - NeMos: nemos/nemos_setup.md
+      - Pynapple: pynapple/pynapple_setup.md
+      - CAJAL: cajal/cajal_setup.md
+      - Navis: navis/navis_setup.md
+
+
 
 theme:
   name: "material"
