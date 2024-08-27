@@ -1,5 +1,7 @@
 # :fontawesome-solid-computer: Preparations
 
+## Setup Python
+
 The workshop will consist of a mix of introductory talks for the individual Python packages and a number of interactive coding sessions - see the [Schedule](schedule.md) for details.
 
 You are welcome to just cruise :sailboat: along but to make the most of it you will probably want to follow the coding and participate in the exercises on your own machine.
@@ -51,3 +53,6 @@ In addition, we have prepared setup instructions for the four different Python p
 
 
 
+## Download the Data
+
+_TODO_
