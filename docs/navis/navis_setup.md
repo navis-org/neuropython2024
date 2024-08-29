@@ -23,9 +23,8 @@ In the long run, you might want to check out Option 2 but for this workshop you 
 === "Full Install"
 
     The full install should set you up for using `Navis` plus a number of
-    extra dependencies that are just nice to have. If
-    you run into issues, try the minimal install
-    instead.
+    extra dependencies that are just nice to have. If you run into issues,
+    try the [minimal install](navis_setup.md#__tabbed_1_2) instead.
 
     ``` sh
     pip install navis[all] -U
@@ -34,16 +33,25 @@ In the long run, you might want to check out Option 2 but for this workshop you 
 
 === "Minimal"
 
-    If you're running into issues with the full install, you can try
-    the minimal install instead:
+    If you're running into issues with the [full install](navis_setup.md#__tabbed_1_1),
+    you can try this minimal install instead:
 
     ``` sh
     pip install navis -U
     ```
 
+    If you go down this route you will need to install the following packages manually:
+
+    ``` sh
+    pip install plotly pathos cloud-volume -U
+    ```
+
+    These aren't strictly required for `navis` but we will use them in this workshop.
+
+
 === "Dev"
 
-    To install the latest version from Github:
+    You shouldn't need this for this workshop but to install the latest version from Github:
 
     ``` sh
     pip install git+https://github.com/navis-org/navis@master
