@@ -12,12 +12,10 @@ nav:
   - Schedule: schedule.md
   - Preparation:
       - preparing.md
-      - NeMos: nemos/nemos_setup.md
-      - Pynapple: pynapple/pynapple_setup.md
-      - CAJAL: cajal/cajal_setup.md
-      - Navis: navis/navis_setup.md
-
-
+      # - NeMos: nemos/nemos_setup.md
+      # - Pynapple: pynapple/pynapple_setup.md
+      # - CAJAL: cajal/cajal_setup.md
+      # - Navis: navis/navis_setup.md
 
 theme:
   name: "material"

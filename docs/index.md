@@ -11,7 +11,7 @@ Online! We'll share a Zoom link ahead of the workshop.
 September 23rd-24th. It's two half days to make sure people in both US and Europe can attend. Please see the [Schedule](schedule.md) for details.
 
 ## :star_struck: Interested?
-Registration is still open via [Google Forms](https://forms.gle/twx3ne3HHoV48eMS8).
+Registration is closed as of September 12, 2024.
 
 ## :rocket: Already signed up?
 

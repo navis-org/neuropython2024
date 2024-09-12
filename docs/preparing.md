@@ -12,7 +12,7 @@ In general, we expect you to have at least basic familiarty with Python includin
 Most of the workshop will be using [Jupyter](https://jupyter.org/) for interactive data analysis. Please see their website for install instructions.
 
 ## Prerequisites
-Windows, MacOS, and Linux should all work.
+Windows, MacOS, and Linux should all work. You can also run Python in a Jupyter notebook in the cloud, using Google Colab.
 
 The tutorials are compatible with Python version >= 3.9. You should have a current version of pip (>= 23) and setuptools (>= 68)
 
@@ -27,6 +27,8 @@ In order to avoid dependency conflicts with other Python packages on your device
 including packages managed by the system package manager rather than pip or conda, you should create a virtual environment to install
 all Python packages that will be used in the workshop. Start by navigating to the directory in which you plan to work, and follow the instructions appropriate for your package manager.
 
+Alternatively, if you plan to use Google Colab for everything, you can skip to that section.
+
 ## Dependencies
 The workshop will focus on four main packages.
 
@@ -38,7 +40,7 @@ The workshop will focus on four main packages.
 
     [Pynapple](https://github.com/pynapple-org/pynapple) is a light-weight python library for neurophysiological data analysis.
 
-    [:octicons-arrow-right-24: Install instructions](pynapple/pynapple_setup.md)
+    <!-- [:octicons-arrow-right-24: Install instructions](pynapple/pynapple_setup.md) -->
 
 -   :material-cube:{ .lg .middle } __NeMoS__
 
@@ -46,7 +48,7 @@ The workshop will focus on four main packages.
 
     [NeMoS](https://github.com/flatironinstitute/nemos) (Neural ModelS) is a statistical modeling framework optimized for systems neuroscience and powered by JAX.
 
-    [:octicons-arrow-right-24: Install instructions](nemos/nemos_setup.md)
+    <!-- [:octicons-arrow-right-24: Install instructions](nemos/nemos_setup.md) -->
 
 -   :material-eye-arrow-right:{ .lg .middle } __CAJAL__
 
@@ -54,7 +56,7 @@ The workshop will focus on four main packages.
 
     [CAJAL](https://github.com/CamaraLab/CAJAL) is a Python library for multi-modal cell morphology analyses using Gromov-Wasserstein (GW) distance.
 
-    [:octicons-arrow-right-24: Install instructions](cajal/cajal_setup.md)
+    <!-- [:octicons-arrow-right-24: Install instructions](cajal/cajal_setup.md) -->
 
 -   :material-camera-control: __Navis__
 
@@ -62,12 +64,13 @@ The workshop will focus on four main packages.
 
     [Navis](https://github.com/navis-org/navis) is a package for **N**euron **A**nalysis and **Vis**ualization.
 
-    [:octicons-arrow-right-24: Install instructions](navis/navis_setup.md)
+    <!-- [:octicons-arrow-right-24: Install instructions](navis/navis_setup.md) -->
 
 
 </div>
 
 In addition to these core tools, we will rely on some other software:
+
 - Scanpy, a Python package for the analysis of single-cell gene expression data
 - Jupyter, an interactive environment for evaluating Python code and plotting graphs
 - ipywidgets, which extends the functionality of Jupyter (e.g., progress bars)
@@ -115,6 +118,13 @@ pip install cajal navis pynnapple nemos
 ```
 and pip should install the relevant dependencies into the ./neuro_workshop directory you have just created.
 
-## Download the Data
+## Google Colab
+Google Colab is a cloud computing service which can execute Jupyter notebooks stored in Google Drive. To use Google Colab for this tutorial, go to https://colab.research.google.com/ and click "File > New Notebook in Drive"
 
-_TODO_
+Install Python dependencies using Jupyter's pip magic command:
+```
+%pip install cajal scanpy leidenalg navis umap-learn pandas plotly pynapple nemos matplotlib requests
+```
+
+## Getting Help
+The workshop organizers can be contacted for installation help in the [Slack group](https://join.slack.com/t/pythontoolsfo-ehx1178/shared_invite/zt-2qjzd1c44-NZ~9kt0~kh47X6t80tK8Mg) for the workshop. 
