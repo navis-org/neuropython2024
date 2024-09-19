@@ -179,7 +179,7 @@ The workshop organizers can be contacted for installation help in the [Slack gro
 
     We're still putting the finishing touches on the exercises we want to run with you!
     Once that dust has settled, we will share the data artefacts you'll need to follow along during the course. -->
-## Data Artifacts
+## Example Datasets
 During the workshop, we will be analyzing data from the 2020 paper ["Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells"](https://www.cell.com/cell/pdf/S0092-8674(20)31254-X.pdf) by Gouwens, Sorensen, Baftizadeh et. al.
 
 All artifacts for the CAJAL presentation on Tuesday are available in the following Dropbox folder: <https://www.dropbox.com/scl/fo/l242i29tqnxrpsmei4ji2/AEfUqnzMxszdi6VFvKejwS0?rlkey=dz4p5m4442nyodogyjpzl83zl&st=zh7khnyy&dl=0/>
