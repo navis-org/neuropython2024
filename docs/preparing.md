@@ -182,4 +182,6 @@ The workshop organizers can be contacted for installation help in the [Slack gro
 ## Example Datasets
 During the workshop, we will be analyzing data from the 2020 paper ["Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells"](https://www.cell.com/cell/pdf/S0092-8674(20)31254-X.pdf) by Gouwens, Sorensen, Baftizadeh et. al.
 
-All artifacts for the CAJAL presentation on Tuesday are available in the following Dropbox folder: <https://www.dropbox.com/scl/fo/l242i29tqnxrpsmei4ji2/AEfUqnzMxszdi6VFvKejwS0?rlkey=dz4p5m4442nyodogyjpzl83zl&st=zh7khnyy&dl=0/>
+All artifacts for the CAJAL presentation on Tuesday are available in this [Dropbox folder](https://www.dropbox.com/scl/fo/l242i29tqnxrpsmei4ji2/AEfUqnzMxszdi6VFvKejwS0?rlkey=dz4p5m4442nyodogyjpzl83zl&st=zh7khnyy&dl=0).
+
+For Pynapple and Nemos, the workshop tutorial discusses how to download the necessary data - see [Part 1](https://pynapple-org.github.io/single-cell-neuropython-workshop-2024/generated/gallery/example_load_to_pynapple/) and [Part 3](https://pynapple-org.github.io/single-cell-neuropython-workshop-2024/generated/gallery/tutorial_pynapple_nemos_single_cell_full), in the "Data Streaming" section.
