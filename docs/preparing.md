@@ -174,8 +174,12 @@ Install the Python dependencies using `!` to run a shell command from a Jupyter 
 ## Getting Help
 The workshop organizers can be contacted for installation help in the [Slack group](https://join.slack.com/t/pythontoolsfo-ehx1178/shared_invite/zt-2qjzd1c44-NZ~9kt0~kh47X6t80tK8Mg) for the workshop or using the [Discussions](https://github.com/navis-org/neuropython2024/discussions) in this website's Github repository.
 
-
+<!-- 
 !!! Question "What about data?!"
 
     We're still putting the finishing touches on the exercises we want to run with you!
-    Once that dust has settled, we will share the data artefacts you'll need to follow along during the course.
+    Once that dust has settled, we will share the data artefacts you'll need to follow along during the course. -->
+## Data Artifacts
+During the workshop, we will be analyzing data from the 2020 paper ["Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells"](https://www.cell.com/cell/pdf/S0092-8674(20)31254-X.pdf) by Gouwens, Sorensen, Baftizadeh et. al.
+
+All artifacts for the CAJAL presentation on Tuesday are available in the following Dropbox folder: <https://www.dropbox.com/scl/fo/l242i29tqnxrpsmei4ji2/AEfUqnzMxszdi6VFvKejwS0?rlkey=dz4p5m4442nyodogyjpzl83zl&st=zh7khnyy&dl=0/>
