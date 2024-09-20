@@ -171,17 +171,20 @@ Install the Python dependencies using `!` to run a shell command from a Jupyter 
     sure that any updates installed via our call to `!pip install` actually take effect, you should click `Runtime` -> "Restart Session"
     to restart the Python kernel.
 
+## Data
+
+During the workshop, we will be analyzing data from the 2020 paper ["Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells"](https://www.cell.com/cell/pdf/S0092-8674(20)31254-X.pdf) by Gouwens, Sorensen, Baftizadeh et. al.
+
+All artifacts for the NAVis (Monday) and CAJAL (Tuesday) presentations are available in this [Dropbox folder](https://www.dropbox.com/scl/fo/l242i29tqnxrpsmei4ji2/AEfUqnzMxszdi6VFvKejwS0?rlkey=dz4p5m4442nyodogyjpzl83zl&st=zh7khnyy&dl=0). Just download the whole thing and put it somewhere you will be able to find it during the workshop.
+
+For Pynapple and Nemos (Monday), the workshop tutorial discusses how to download the necessary data - see [Part 1](https://pynapple-org.github.io/single-cell-neuropython-workshop-2024/generated/gallery/example_load_to_pynapple/) and [Part 3](https://pynapple-org.github.io/single-cell-neuropython-workshop-2024/generated/gallery/tutorial_pynapple_nemos_single_cell_full), in the "Data Streaming" section.
+
 ## Getting Help
 The workshop organizers can be contacted for installation help in the [Slack group](https://join.slack.com/t/pythontoolsfo-ehx1178/shared_invite/zt-2qjzd1c44-NZ~9kt0~kh47X6t80tK8Mg) for the workshop or using the [Discussions](https://github.com/navis-org/neuropython2024/discussions) in this website's Github repository.
 
-<!-- 
+<!--
 !!! Question "What about data?!"
 
     We're still putting the finishing touches on the exercises we want to run with you!
-    Once that dust has settled, we will share the data artefacts you'll need to follow along during the course. -->
-## Example Datasets
-During the workshop, we will be analyzing data from the 2020 paper ["Integrated Morphoelectric and Transcriptomic Classification of Cortical GABAergic Cells"](https://www.cell.com/cell/pdf/S0092-8674(20)31254-X.pdf) by Gouwens, Sorensen, Baftizadeh et. al.
-
-All artifacts for the CAJAL presentation on Tuesday are available in this [Dropbox folder](https://www.dropbox.com/scl/fo/l242i29tqnxrpsmei4ji2/AEfUqnzMxszdi6VFvKejwS0?rlkey=dz4p5m4442nyodogyjpzl83zl&st=zh7khnyy&dl=0).
-
-For Pynapple and Nemos, the workshop tutorial discusses how to download the necessary data - see [Part 1](https://pynapple-org.github.io/single-cell-neuropython-workshop-2024/generated/gallery/example_load_to_pynapple/) and [Part 3](https://pynapple-org.github.io/single-cell-neuropython-workshop-2024/generated/gallery/tutorial_pynapple_nemos_single_cell_full), in the "Data Streaming" section.
+    Once that dust has settled, we will share the data artefacts you'll need to follow along during the course.
+-->
